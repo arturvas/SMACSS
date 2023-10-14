@@ -88,8 +88,8 @@ O bloco é a parte principal e mais geral de um componente ou elemento de interf
 
 ### Elementos (Element)
 
-Elementos são **partes menores** e **específicas** de um bloco que não fazem sentido por si só e só têm significado dentro do contexto do bloco ao qual pertencem. Elementos são nomeados usando um duplo sublinhado (**). Por exemplo, dentro do bloco "`botão`", você pode ter elementos como "`ícone`" ou "`rótulo`" representados como "`botao**icone`" e "`botao\_\_rotulo`".
+Elementos são **partes menores** e **específicas** de um bloco que não fazem sentido por si só e só têm significado dentro do contexto do bloco ao qual pertencem. Elementos são nomeados usando um duplo sublinhado (__). Por exemplo, dentro do bloco `botão`, você pode ter elementos como `ícone` ou `rótulo` representados como `botao__icone`e`botao__rotulo`.
 
 ### Modificadores (Modifier)
 
-Os modificadores são usados para **criar variações** de um bloco ou elemento. Eles permitem que você aplique diferentes estilos ou comportamentos a um bloco ou elemento sem a necessidade de criar classes CSS separadas. Modificadores são nomeados usando um duplo hífen (--). Por exemplo, um botão pode ter um modificador de tamanho chamado "`botao--grande`" para aumentar seu tamanho.
+Os modificadores são usados para **criar variações** de um bloco ou elemento. Eles permitem que você aplique diferentes estilos ou comportamentos a um bloco ou elemento sem a necessidade de criar classes CSS separadas. Modificadores são nomeados usando um duplo hífen (--). Por exemplo, um botão pode ter um modificador de tamanho chamado `botao--grande` para aumentar seu tamanho.
